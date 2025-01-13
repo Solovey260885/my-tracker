@@ -1,0 +1,10 @@
+.logo {
+  fill: var(--main);
+}
+
+@media screen and (min-width: 768px) {
+  .logo {
+    width: 155px;
+    height: 24px;
+  }
+}

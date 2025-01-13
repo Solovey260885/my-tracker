@@ -1,0 +1,34 @@
+.discription_container {
+  background: var(--background);
+
+  border-radius: 30px;
+  width: 343px;
+  height: 411px;
+
+  padding: 24px 16px;
+  padding-bottom: 64px;
+  margin: 16px;
+}
+
+@media screen and (min-width: 768px) {
+  .discription_container {
+    width: 672px;
+    height: 498px;
+
+    padding: 32px;
+    padding-bottom: 50px;
+    margin: 16px;
+  }
+}
+
+@media screen and (min-width: 1440px) {
+  .discription_container {
+    width: 672px;
+    height: 736px;
+    padding-bottom: 168px;
+
+    margin-left: 32px;
+    margin-top: 32px;
+    margin-bottom: 32px;
+  }
+}

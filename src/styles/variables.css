@@ -1,0 +1,12 @@
+:root {
+  --main: #323f47;
+  --main-text: #2f2f2f;
+  --accent: #9be1a0;
+  --background: #f0eff4;
+  --main-white: #fff;
+
+  --breakpoint-mobile: 320px;
+  --breakpoint-tablet: 768px;
+  --breakpoint-desktop: 1440px;
+  --font-family: "Poppins", sans-serif;
+}
